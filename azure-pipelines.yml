@@ -42,7 +42,7 @@ steps:
    ls
    # Use the environment variables input below to pass secret variables to this script
 
-  displayName: 'Build App'
+  displayName: 'Build TailWind App'
 
 
 
